@@ -1,0 +1,7 @@
+C:\Users\Lenovo x280\Desktop\progra-comp-I\miPrimerProyecto\miPrimerProyecto\bin\Debug\miPrimerProyecto.exe.config
+C:\Users\Lenovo x280\Desktop\progra-comp-I\miPrimerProyecto\miPrimerProyecto\bin\Debug\miPrimerProyecto.exe
+C:\Users\Lenovo x280\Desktop\progra-comp-I\miPrimerProyecto\miPrimerProyecto\bin\Debug\miPrimerProyecto.pdb
+C:\Users\Lenovo x280\Desktop\progra-comp-I\miPrimerProyecto\miPrimerProyecto\obj\Debug\miPrimerProyecto.csproj.AssemblyReference.cache
+C:\Users\Lenovo x280\Desktop\progra-comp-I\miPrimerProyecto\miPrimerProyecto\obj\Debug\miPrimerProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo x280\Desktop\progra-comp-I\miPrimerProyecto\miPrimerProyecto\obj\Debug\miPrimerProyecto.exe
+C:\Users\Lenovo x280\Desktop\progra-comp-I\miPrimerProyecto\miPrimerProyecto\obj\Debug\miPrimerProyecto.pdb
