@@ -1,4 +1,4 @@
-﻿namespace Academico
+﻿namespace academica
 {
     partial class Form1
     {
